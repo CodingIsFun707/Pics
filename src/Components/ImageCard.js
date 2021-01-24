@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import ImageList from "./ImageList";
+import React from "react";
+
 
 class ImageCard extends React.Component {
   constructor(props) {
